@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Python
+HTML CSS PHP JS
+Java C# C
+
 <!--
 **elliottmrch/elliottmrch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
